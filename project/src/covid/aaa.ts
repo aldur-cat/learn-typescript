@@ -1,0 +1,3 @@
+interface Haa {
+  aaa: string;
+}
